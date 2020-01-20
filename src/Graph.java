@@ -1,10 +1,11 @@
-import java.util.*;
 /**
  * Graph.java
  * This class represents an undirected graph
  * Adjacency matrix is used to represent the graph
  * @author Jia Yu Man
  */
+import java.util.*;
+
 public class Graph implements GraphADT{
 
 	private int n;
