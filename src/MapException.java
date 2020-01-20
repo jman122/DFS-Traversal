@@ -1,3 +1,7 @@
+/**
+ * MapException.java
+ * @author Jia Yu Man
+ */
 public class MapException extends RuntimeException{
 
 	public MapException() {
